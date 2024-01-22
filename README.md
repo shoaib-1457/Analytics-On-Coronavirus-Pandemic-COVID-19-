@@ -4,8 +4,12 @@ Analytical work on the global Coronavirus Pandemic (COVID-19) using data sourced
 - Microsoft Server Sql Management System 
 - Tableau
 # Dashboard
-- Made a dashboard of Analysing Report of Covid (2020-2023)
+Made a dashboard of Analysing Report of Covid (2020-2023)
   ![Dashboard](https://github.com/shoaib-1457/Analytics-On-Coronavirus-Pandemic-COVID-19-/blob/656bb63c7241825498e8bddf714b495286e1b7df/Dashboard)
   **https://public.tableau.com/views/CovidAnalysis2020-2023_17059024304530/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link**
+
+# Global Analysis
+Here is the global Analysis of the Covid Death percentage from year 2021-2025.
+  ![Global Analysis](https://github.com/shoaib-1457/Analytics-On-Coronavirus-Pandemic-COVID-19-/blob/c95f2a6290763eb3e1b1d9a5de663c4ef3af1c32/Global%20Number%20For%20Death%20Count)
 
 
